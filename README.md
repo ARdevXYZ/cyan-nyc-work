@@ -26,6 +26,4 @@ More samples of work available upon request.
 - [cyan@cyan.nyc](mailto:cyan@cyan.nyc)
 - [cyan.nyc](https://cyan.nyc)
 
-Andrew Rosinski personal URLS
-- [andrewrosinski.com](https://andrewrosinski.com)
-- [Dinca](https://dinca.org)
+Thanks for visiting.
