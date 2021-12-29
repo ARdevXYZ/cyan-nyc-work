@@ -21,9 +21,10 @@ Selected work 🌈✨🦅
 * [https://bio-logic.web.app/](https://bio-logic.web.app/)
 * [https://monospace-wp.freewordpressthemes.ardev.xyz/](https://monospace-wp.freewordpressthemes.ardev.xyz/)
 * [https://minimalist-wp.freewordpressthemes.ardev.xyz/](https://minimalist-wp.freewordpressthemes.ardev.xyz/)
+* [Bio Logic](https://bio-logic.web.app/)
 
 More samples of work available upon request.
-- [cyan@cyan.nyc](mailto:cyan@cyan.nyc)
-- [cyan.nyc](https://cyan.nyc)
+Email [cyan@cyan.nyc](mailto:cyan@cyan.nyc)
+Visit [cyan.nyc](https://cyan.nyc)
 
 Thanks for visiting.
