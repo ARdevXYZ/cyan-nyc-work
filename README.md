@@ -1,5 +1,5 @@
 # Cyan
-Selected work 🌈✨🦅
+Selected work 🪸 🫧 🫧 🫧 🫧 🫧 🫧 🫧 🫧 🫧 🫧 🫧
 ```
 
     ▄▀▄▄▄▄   ▄▀▀▄ ▀▀▄  ▄▀▀█▄   ▄▀▀▄ ▀▄ 
@@ -11,28 +11,32 @@ Selected work 🌈✨🦅
     ▐            ▐             ▐        
       
 ```
-Cyan
-Available for hire sub-contracted on a very limited basis.
+Cyan NYC
 
-Selected work 🌈✨🦅
+Selected work 🪸 🫧 🫧 🫧 🫧 🫧 🫧 🫧 🫧 🫧 🫧 🫧
+
+Recent web applications I've built
+* [greengreennyc.org](https://greengreennyc.org)
+* [aquapic.app](https://aquapic.app)
+* [aquanote.app](https://aquanote.app)
 
 React
 * [https://cyan.nyc](https://cyan.nyc)
 * [pathpaint.web.app](https://pathpaint.web.app)
-* [https://aquanote.web.app/](https://aquanote.web.app/)
-* [https://word-of-the-day-6ee78.web.app/](https://word-of-the-day-6ee78.web.app/)
-* [https://bio-logic.web.app/](https://bio-logic.web.app/)
+* [https://aquanote.web.app/](https://aquanote.web.app)
+* [https://word-of-the-day-6ee78.web.app/](https://word-of-the-day-6ee78.web.app)
+* [https://lynx234.web.app](https://lynx234.web.app)
+* [https://bio-logic.web.app/](https://bio-logic.web.app)
 
-WordPress
+WordPress theme development
 * [https://dinca.org](https://dinca.org)
-* [https://monospace-wp.freewordpressthemes.ardev.xyz/](https://monospace-wp.freewordpressthemes.ardev.xyz/)
-* [https://minimalist-wp.freewordpressthemes.ardev.xyz/](https://minimalist-wp.freewordpressthemes.ardev.xyz/)
+* More WP theme dev samples available upon request
 
 Personal
 * [https://andrewrosinski.com](https://andrewrosinski.com)
 
 More samples of work available upon request.
-Email [cyan@cyan.nyc](mailto:cyan@cyan.nyc)
+Email [andrew.rosinski@gmail.com](mailto:andrew.rosinski@gmail.com)
 Visit [cyan.nyc](https://cyan.nyc)
 
 Thanks for visiting.
