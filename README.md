@@ -30,13 +30,14 @@ React
 
 WordPress theme development
 * [https://dinca.org](https://dinca.org)
-* More WP theme dev samples available upon request
+*  More WP theme dev samples available upon request
 
 Personal
 * [https://andrewrosinski.com](https://andrewrosinski.com)
 
 More samples of work available upon request.
-Email [andrew.rosinski@gmail.com](mailto:andrew.rosinski@gmail.com)
-Visit [cyan.nyc](https://cyan.nyc)
+
+* Email: [andrew.rosinski@gmail.com](mailto:andrew.rosinski@gmail.com)
+* Visit: [cyan.nyc](https://cyan.nyc)
 
 Thanks for visiting.
